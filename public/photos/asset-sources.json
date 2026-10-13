@@ -1,0 +1,12 @@
+{
+  "portrait": {
+    "source": "IMG_6187.JPG",
+    "output": "portrait.webp",
+    "preparation": "Original portrait resized proportionally to 750×1000 and encoded as WebP. No filters, retouching, or facial edits."
+  },
+  "personal": {
+    "source": "IMG_0214.JPG",
+    "output": "personal-moment.webp",
+    "preparation": "Applied EXIF orientation, resized proportionally to 600×800, and encoded as WebP. No filters or retouching."
+  }
+}

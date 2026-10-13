@@ -1,0 +1,47 @@
+{
+  "source": "FER_Poster.pdf, UW CSE 493G1, Spring 2026",
+  "preparation": "Exact PDF figure crops rendered at 150 dpi and losslessly encoded as WebP. No data or figure content redrawn.",
+  "figures": {
+    "transformer-architecture": {
+      "pdf_crop_points": [
+        26,
+        654,
+        1690,
+        1065
+      ]
+    },
+    "per-class-accuracy": {
+      "pdf_crop_points": [
+        662,
+        1667,
+        1172,
+        1916
+      ]
+    },
+    "cnn-confusion": {
+      "pdf_crop_points": [
+        667,
+        1918,
+        991,
+        2260
+      ]
+    },
+    "bilstm-confusion": {
+      "pdf_crop_points": [
+        998,
+        1918,
+        1327,
+        2260
+      ]
+    },
+    "transformer-confusion": {
+      "pdf_crop_points": [
+        1334,
+        1918,
+        1695,
+        2260
+      ]
+    }
+  },
+  "poster_prediction_note": "Happy 94% in the architecture schematic illustrates a prediction, not a model evaluation metric."
+}

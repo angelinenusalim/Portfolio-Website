@@ -1,0 +1,77 @@
+{
+  "preparation": "Original supplied images proportionally resized where needed and encoded as WebP. No redrawing, recoloring, or text edits.",
+  "files": [
+    {
+      "source": "BC HACKS POSTERS/BC Hacks Flyers 11 x 8.5.png",
+      "output": "bc-flyer.webp"
+    },
+    {
+      "source": "BC HACKS POSTERS/Copy of BC Hacks  Linkedin Banner.png",
+      "output": "bc-banner.webp"
+    },
+    {
+      "source": "BC HACKS POSTERS/bchacks_rubric.png",
+      "output": "bc-rubric.webp"
+    },
+    {
+      "source": "Bellevue Indo Club/BIC Spring Gathering.png",
+      "output": "bic-spring.webp"
+    },
+    {
+      "source": "Bellevue Indo Club/CNY BIC.png",
+      "output": "bic-new-year.webp"
+    },
+    {
+      "source": "Bellevue Indo Club/Gift Exchange.png",
+      "output": "bic-gift.webp"
+    },
+    {
+      "source": "Digital_Drawing.JPG",
+      "output": "digital-drawing.webp"
+    },
+    {
+      "source": "Galaxy Cat Game Project/Character.PNG",
+      "output": "galaxy-character.webp"
+    },
+    {
+      "source": "Galaxy Cat Game Project/Background.PNG",
+      "output": "galaxy-background.webp"
+    },
+    {
+      "source": "BC HACKS STICKERS/transparent /1_transparent.PNG",
+      "output": "bc-dinosaur-1.webp"
+    },
+    {
+      "source": "BC HACKS STICKERS/transparent /2_transparent.PNG",
+      "output": "bc-dinosaur-2.webp"
+    },
+    {
+      "source": "BC HACKS STICKERS/transparent /3_transparent.PNG",
+      "output": "bc-dinosaur-3.webp"
+    },
+    {
+      "source": "BC HACKS STICKERS/transparent /4_transparent.PNG",
+      "output": "bc-dinosaur-4.webp"
+    },
+    {
+      "source": "BC HACKS STICKERS/transparent /5_transparent.PNG",
+      "output": "bc-dinosaur-5.webp"
+    },
+    {
+      "source": "BC HACKS 2025 STICKERS/bchacks2025_1.webp",
+      "output": "bc-fox-1.webp"
+    },
+    {
+      "source": "BC HACKS 2025 STICKERS/bchacks2025_2.webp",
+      "output": "bc-fox-2.webp"
+    },
+    {
+      "source": "BC HACKS 2025 STICKERS/bchacks2025_3.webp",
+      "output": "bc-fox-3.webp"
+    },
+    {
+      "source": "BC HACKS 2025 STICKERS/bchacks2025_4.webp",
+      "output": "bc-fox-4.webp"
+    }
+  ]
+}

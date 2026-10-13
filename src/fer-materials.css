@@ -1,0 +1,86 @@
+/* Added project materials use the existing palette and type families.
+   No existing layout, font sizes, or animation rules are overridden. */
+.fer-table-wrap {
+  margin: 18px 0 14px;
+  max-width: 100%;
+}
+.fer-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.6;
+  table-layout: fixed;
+}
+.fer-table caption {
+  text-align: left;
+  color: var(--berry);
+  font-size: 11px;
+  margin-bottom: 8px;
+}
+.fer-table th,
+.fer-table td {
+  border-bottom: 1px solid var(--line);
+  padding: 10px 6px;
+  text-align: right;
+  vertical-align: top;
+}
+.fer-table th:first-child {
+  width: 55%;
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+.fer-table th {
+  font-weight: 500;
+}
+.fer-table thead th {
+  color: var(--berry);
+  background: var(--paper-deep);
+}
+.fer-result-note {
+  margin-bottom: 12px;
+}
+.fer-figures {
+  margin-top: 20px;
+  display: grid;
+  gap: 24px;
+}
+.fer-figures figure {
+  margin: 0;
+}
+.fer-figures h4 {
+  color: var(--berry);
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.fer-figures img {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+}
+.fer-figures figcaption {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.7;
+  margin-top: 9px;
+}
+.fer-figures figcaption a {
+  color: var(--berry);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  white-space: nowrap;
+}
+@media (max-width: 600px) {
+  .fer-table {
+    font-size: 10px;
+  }
+  .fer-table th,
+  .fer-table td {
+    padding: 9px 3px;
+  }
+  .fer-table th:first-child {
+    width: 48%;
+  }
+}
